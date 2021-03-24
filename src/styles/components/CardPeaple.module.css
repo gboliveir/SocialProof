@@ -1,4 +1,7 @@
 .container {
+    display: flex;
+    flex-direction: column;
+
     padding: 1.5rem;
 
     height: 15rem;
@@ -41,10 +44,11 @@
 
 .container main {
     display: flex;
+    align-items: center;
+    flex: 1;
 }
 
 .container main p {
-    flex: 1;
     color: var(--White);
 }
 
