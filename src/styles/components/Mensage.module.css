@@ -6,5 +6,31 @@
 
 
 .complementInformation {
+    max-width: 37ch;
+    line-height: 1.5rem;
+    font-weight: 500;
     color: var(--dark-grayish-magenta);
+}
+
+@media(max-width:940px) {
+    .mainInformation {
+        margin-bottom: 2rem;
+    }
+
+    .complementInformation {
+        margin: 0 auto;
+        width: 25rem;
+    }
+}
+
+@media(max-width: 380px) {
+    .complementInformation { 
+        max-width: 30ch;
+    }
+}
+
+@media(max-width: 340px) {
+    .complementInformation { 
+        width: 19rem;
+    }
 }

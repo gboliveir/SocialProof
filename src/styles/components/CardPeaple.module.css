@@ -52,4 +52,16 @@
     color: var(--White);
 }
 
+@media(max-width: 400px) {
+    .container {
+        width: 22rem;
+        height: 13rem;
+    }
+}
 
+@media(max-width: 340px) {
+    .container {
+        width: 19rem;
+        height: 13rem;
+    }
+}

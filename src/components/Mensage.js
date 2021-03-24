@@ -9,8 +9,8 @@ export default function Card() {
                 products.
             </h1>
             <p className={styles.complementInformation}>
-                We only provide great products combined with excellent <br/>
-                customer servicem. See what our satisfied customers are <br/>
+                We only provide great products combined with excellent
+                customer servicem. See what our satisfied customers are 
                 saying about our services
             </p>
         </>

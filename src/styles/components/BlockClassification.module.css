@@ -18,3 +18,26 @@
 .container img {
     margin-right: 0.5rem;
 }
+
+@media(max-width: 940px) {
+    .container {
+        flex-direction: inherit;
+        width: 25rem;
+        height: 5rem;
+        padding: 0.8rem 0;
+    }
+}
+
+@media(max-width: 400px) {
+    .container {
+        width: 22rem;
+        height: 4.5rem;
+    }
+}
+
+@media(max-width: 340px) {
+    .container {
+        width: 19rem;
+        height: 4rem;
+    }
+}
