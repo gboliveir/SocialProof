@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 2rem;
+
+    border-radius: 8px;
+
+    height: 3.5rem;
+    width: 30rem;
+
+    background-color: var(--light-grayish-magenta);
+    color: var(--very-dark-magenta);
+    font-weight: 700;
+}
+
+.container img {
+    margin-right: 0.5rem;
+}

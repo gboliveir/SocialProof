@@ -1,0 +1,10 @@
+.mainInformation {
+    font-size: 3rem;
+    color: var(--very-dark-magenta);
+    margin-bottom: 1rem;
+}
+
+
+.complementInformation {
+    color: var(--dark-grayish-magenta);
+}

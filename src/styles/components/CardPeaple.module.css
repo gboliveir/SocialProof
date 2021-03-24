@@ -1,0 +1,51 @@
+.container {
+    padding: 1.5rem;
+
+    height: 15rem;
+    width: 25rem;
+
+    border-radius: 8px;
+
+    background-color: var(--very-dark-magenta);
+}
+
+.container header {
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 1rem;
+}
+
+.container header img {
+    border-radius: 50%;
+
+    height: 50px;
+    width: 50px;
+
+    margin-right: 10px;
+}
+
+.container header .groupSpan {
+    display: flex;
+    flex-direction: column;
+}
+
+.container header .groupSpan span:first-child {
+    color: var(--White);
+    margin-bottom: 0.3rem;
+}
+
+.container header .groupSpan span:last-child {
+    color: var(--soft-pink);
+}
+
+.container main {
+    display: flex;
+}
+
+.container main p {
+    flex: 1;
+    color: var(--White);
+}
+
+
