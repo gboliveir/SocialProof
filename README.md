@@ -1,9 +1,9 @@
 
-<h1 align="center">Social Prof</h1>
+<h1 align="center">Social Proof</h1>
 
 # 💻 Sobre o projeto
 
-<p align="center">Social Prof é uma tela com o objetivo de atrair novos usuários utilizando a opinião de outros a respeito dos serviços prestados aos mesmos.</p>
+<p align="center">Social Proof é uma tela com o objetivo de atrair novos usuários utilizando a opinião de outros a respeito dos serviços prestados aos mesmos.</p>
 
 <h3 align="center"> 
 	🚧 🚀 Status de Andamento do Projeto: Finalizado. 🚧
@@ -37,8 +37,8 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ## Mobile
 <div align="center" > 
-    <img width="400px" height="750px" src="./github/SocialProofMobile1.jpg" alt="Design preview for page Social Proof - Mobile - Part 1" />
-    <img width="400px" height="750px" src="./github/SocialProofMobile2.jpg" alt="Design preview for page Social Proof - Mobile - Part 2" />
+    <img width="400px" height="650px" src="./github/SocialProofMobile1.jpg" alt="Design preview for page Social Proof - Mobile - Part 1" />
+    <img width="400px" height="650px" src="./github/SocialProofMobile2.jpg" alt="Design preview for page Social Proof - Mobile - Part 2" />
 </div>
 
 ## Desktop
