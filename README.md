@@ -1,70 +1,57 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Social Prof</h1>
 
-## Available Scripts
+# 💻 Sobre o projeto
 
-In the project directory, you can run:
+<p align="center">Social Prof é uma tela com o objetivo de atrair novos usuários utilizando a opinião de outros a respeito dos serviços prestados aos mesmos.</p>
 
-### `yarn start`
+<h3 align="center"> 
+	🚧 🚀 Status de Andamento do Projeto: Finalizado. 🚧
+</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Desafíos e Estudos Relevantes:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Controle incrível a respeito do posicionamento de componentes em tela.
+- Exemplificação e treino utilizando pseudo-classes para estilização de componentes.
+- Reponsividade que torna o projeto adaptável a diversas telas de dispositivos utilizando @MediaQuery. 
+- Trabalho com multiplas imagens para a construção de um plano de fundo mais bonito e diferenciado.
+- Utilização de Rem e % como principais unidades medidas para maximizar capacidade responsiva dos elementos.
 
-### `yarn test`
+<p> 
+    Os Design e Icones desta tela são disponibilizados pela plataforma 
+    <a href="https://www.frontendmentor.io/solutions">Frontend Mentor</a>.
+    A mesma propõe que desenvolvedores busquem projetar as telas solicitadas o mais próximo possível do design esperado. É um bom desafio!  
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 🛠 Tecnologias
 
-### `yarn build`
+As seguintes tecnologias foram utilizadas na construção do projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 🎨 Layout
 
-### `yarn eject`
+## Mobile
+<div align="center" > 
+    <img width="400px" height="750px" src="./github/SocialProofMobile1.jpg" alt="Design preview for page Social Proof - Mobile - Part 1" />
+    <img width="400px" height="750px" src="./github/SocialProofMobile2.jpg" alt="Design preview for page Social Proof - Mobile - Part 2" />
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Desktop
+<div align="Center"> 
+    <img width="800px" height="500px" src="./github/SocialProofDesktop.jpg" alt="Design preview for the FAQ Accordion Card coding challenge - Desktop" />
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Apresentação
+<div align="Center"> 
+    <img width="800px" height="500px" src="./github/SocialProof.gif" alt="Design preview for the FAQ Accordion Card coding challenge - Gif" />
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Autor
+Feito por Gabriel Brito ❤️👋🏽
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-brito-260319205)](https://www.linkedin.com/in/gabriel-brito-260319205) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielbrito.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrito.dev@gmail.com)](mailto:gabrielbrito.dev@gmail.com)

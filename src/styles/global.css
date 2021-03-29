@@ -17,6 +17,9 @@
 body {
     font-size: 1rem;
     font-family: 'Spartan' , sans-serif;
+    background-image: url(../assets/bg-pattern-bottom-desktop.svg), url(../assets/bg-pattern-top-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: bottom 0% right 25%, top -8% left -5%;
 }
 
 #root {
